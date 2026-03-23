@@ -1,0 +1,27 @@
+# Core   data manipulation + time series prep
+pandas
+numpy
+
+# Plotting
+matplotlib
+plotly
+
+# Spark (for local + compatibility)     distributed processing
+pyspark
+
+# GCP Dataproc + Spark Connect
+google-cloud-dataproc   # run Spark on GCP serverless
+google-cloud-storage    # access Iceberg data in GCS
+dataproc-spark-connect
+
+# Iceberg support (handled via Spark config, but keeping for clarity)
+pyiceberg               # useful for metadata/debugging
+
+# Forecasting
+prophet                 # time series forecasting
+
+# Environment management
+python-dotenv           # load environment variables securely
+
+# Optional (good for debugging/logging)
+tqdm

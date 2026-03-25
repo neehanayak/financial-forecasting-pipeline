@@ -1,5 +1,18 @@
 # Financial Data Lakehouse & Forecasting Pipeline (GCP)
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloud-GCP-blue?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Compute-Spark-orange?style=for-the-badge&logo=apachespark"/>
+<img src="https://img.shields.io/badge/Storage-Iceberg-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Prophet-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Pipeline-Batch%20Processing-purple?style=for-the-badge"/>
+
+</p>
+
+
+
 ## Project Overview
 This project builds an **end-to-end data pipeline on Google Cloud** to forecast asset prices using a **lakehouse architecture**.
 

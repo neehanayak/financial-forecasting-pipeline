@@ -25,7 +25,7 @@ GCS CSV → Spark (Serverless) → Data Cleaning → Iceberg Table → Forecasti
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Cloud:** Google Cloud Platform (GCP)
 - **Compute:** Dataproc Serverless (Spark)
@@ -35,7 +35,7 @@ GCS CSV → Spark (Serverless) → Data Cleaning → Iceberg Table → Forecasti
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### 1. Clone the repo
 ```bash

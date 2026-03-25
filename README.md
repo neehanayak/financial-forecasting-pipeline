@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Storage-Iceberg-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ML-Prophet-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Pipeline-Batch%20Processing-purple?style=for-the-badge"/>
 
 </p>
 
